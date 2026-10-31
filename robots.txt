@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keyem88.github.io/jessystagebuecher/sitemap.xml
